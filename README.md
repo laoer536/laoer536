@@ -1,6 +1,6 @@
 <div align=center>
 
-<img alt="Yiyang Sun" src="https://s2.loli.net/2021/12/16/t87HIverpSOhB5E.png" width=100 />
+<img alt="Yiyang Sun" src="https://s2.loli.net/2021/12/16/t87HIverpSOhB5E.png" width=200 />
 
 # Hi, this is Liu Jie :wave:
 
