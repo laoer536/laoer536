@@ -35,7 +35,7 @@ I love coding. :heart:
 
 I'm a web development lover. :heart:
 
-My skills:
+My skills: :arrow_down:
 
 <p>
   
