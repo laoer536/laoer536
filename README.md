@@ -13,7 +13,7 @@
 
 </p>
 
-[![Website](https://img.shields.io/badge/personal%20website-syy11.cn-b860ff?logo=html5&logoColor=white&labelColor=red)](https://syy11.cn)
+[![Website](https://img.shields.io/badge/personal%20website-ljccc.cn-b860ff?logo=html5&logoColor=white&labelColor=red)](https://ljccc.cn)
 
 </p>
 
