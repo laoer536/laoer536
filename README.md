@@ -35,6 +35,8 @@ I love coding. :heart:
 
 I'm a web development lover. :heart:
 
+My skills:
+
 <p>
   
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
