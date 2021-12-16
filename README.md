@@ -1,6 +1,6 @@
 <div align=center>
 
-![avataaars](C:\Users\老二\Desktop\avataaars.png)
+![avataaars](https://s2.loli.net/2021/12/16/t87HIverpSOhB5E.png)
 
 # Hi, this is Liu Jie :wave:
 
