@@ -75,7 +75,7 @@ I'm a web development lover. :heart:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laoer536&&show_icons=true&theme=dark)
 
-![](https://github-profile-trophy.vercel.app/?username=laoer536&theme=onedark&column=7)
+![](https://github-profile-trophy.vercel.app/?username=laoer536&theme=onedark)
 
 </div>
 
