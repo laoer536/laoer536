@@ -13,8 +13,7 @@
 
 </p>
 
-[![Website](https://img.shields.io/badge/personal%20website-ljccc.cn-b860ff?logo=html5&logoColor=white&labelColor=red)](https://
-static-f8329406-a1f1-4959-b48e-ee34f1a028b1.bspapp.com)
+[![Website](https://img.shields.io/badge/personal%20website-ljccc.cn-b860ff?logo=html5&logoColor=white&labelColor=red)](https://static-f8329406-a1f1-4959-b48e-ee34f1a028b1.bspapp.com/)
 
 </p>
 
