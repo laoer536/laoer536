@@ -63,7 +63,7 @@ My skills: :arrow_down:
 
 ## Projects :computer:
 
-[![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=myResume&show_icons=true&theme=dark)](https://github.com/laoer536/myResume)
+[![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=vite2.6-vue3.2-TypeScript-less-eslint-prettier-template&show_icons=true&theme=dark)](https://github.com/laoer536/vite2.6-vue3.2-TypeScript-less-eslint-prettier-template)
 
 [![Course Assistant](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=Map-of-Javascript&show_icons=true&theme=dark)](https://github.com/laoer536/Map-of-Javascript)
 
