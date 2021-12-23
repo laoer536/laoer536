@@ -69,7 +69,7 @@ My skills: :arrow_down:
 
 [![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=VueStudy&show_icons=true&theme=dark)](https://github.com/laoer536/VueStudy)
 
-[![Typecho Theme](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=CDTUstu_system&show_icons=true&theme=dark)](https://github.com/laoer536/CDTUstu_system)
+[![Typecho Theme](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=vite-react17-TypeScript-router-dom6-mobx6-Eslint-prettier-template&show_icons=true&theme=dark)](https://github.com/laoer536/vite-react17-TypeScript-router-dom6-mobx6-Eslint-prettier-template)
 
 ## Analysis :point_down:
 
