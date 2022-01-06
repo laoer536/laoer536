@@ -70,6 +70,8 @@ My skills: :arrow_down:
 
 [![Course Assistant](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=Map-of-Javascript&show_icons=true&theme=dark)](https://github.com/laoer536/Map-of-Javascript)
 
+[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=JavaScript-Exercise-Comprehension&show_icons=true&theme=dark)](https://github.com/laoer536/JavaScript-Exercise-Comprehension)
+
 [![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=VueStudy&show_icons=true&theme=dark)](https://github.com/laoer536/VueStudy)
 
 ## Analysis :point_down:
