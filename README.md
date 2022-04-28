@@ -72,7 +72,7 @@ My skills: :arrow_down:
 
 [![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=JavaScript-Exercise-Comprehension&show_icons=true&theme=dark)](https://github.com/laoer536/JavaScript-Exercise-Comprehension)
 
-[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=VueStudy&show_icons=true&theme=dark)](https://github.com/laoer536/VueStudy)
+[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=nodejs-koa2&show_icons=true&theme=dark)](https://github.com/laoer536/nodejs-koa2)
 
 ## Analysis :point_down:
 
