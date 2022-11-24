@@ -68,7 +68,7 @@ My skills: :arrow_down:
 
 [![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=vite3.0-vue3.2-TypeScript-Pinia-sass-eslint-prettier-template&show_icons=true&theme=dark)](https://github.com/laoer536/vite3.0-vue3.2-TypeScript-Pinia-sass-eslint-prettier-template)
 
-[![Course Assistant](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=tailwindcss-daisyUI-vue3-typescript-template&show_icons=true&theme=dark)](https://github.com/laoer536/tailwindcss-daisyUI-vue3-typescript-template)
+[![Course Assistant](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=nuxt3-pinia-ts-eslint-prettier-template&show_icons=true&theme=dark)](https://github.com/laoer536/nuxt3-pinia-ts-eslint-prettier-template)
 
 [![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=JavaScript-Exercise-Comprehension&show_icons=true&theme=dark)](https://github.com/laoer536/JavaScript-Exercise-Comprehension)
 
