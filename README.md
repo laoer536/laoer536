@@ -57,7 +57,6 @@ My skills: :arrow_down:
 <p>
   
 ![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
 
 </p>
 
