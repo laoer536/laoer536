@@ -65,13 +65,13 @@ My skills: :arrow_down:
 
 [![Typecho Theme](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template&show_icons=true&theme=dark)](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template)
 
-[![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=vite3.0-vue3.2-TypeScript-Pinia-sass-eslint-prettier-template&show_icons=true&theme=dark)](https://github.com/laoer536/vite3.0-vue3.2-TypeScript-Pinia-sass-eslint-prettier-template)
+[![Config Router](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laoer536&repo=vite3.0-vue3.2-TypeScript-Pinia-sass-eslint-prettier-template&show_icons=true&theme=dark)](https://github.com/laoer536/vite3.0-vue3.2-TypeScript-Pinia-sass-eslint-prettier-template)
 
-[![Course Assistant](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=nuxt3-pinia-ts-eslint-prettier-template&show_icons=true&theme=dark)](https://github.com/laoer536/nuxt3-pinia-ts-eslint-prettier-template)
+[![Course Assistant](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laoer536&repo=nuxt3-pinia-ts-eslint-prettier-template&show_icons=true&theme=dark)](https://github.com/laoer536/nuxt3-pinia-ts-eslint-prettier-template)
 
-[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=JavaScript-Exercise-Comprehension&show_icons=true&theme=dark)](https://github.com/laoer536/JavaScript-Exercise-Comprehension)
+[![My Blog](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laoer536&repo=JavaScript-Exercise-Comprehension&show_icons=true&theme=dark)](https://github.com/laoer536/JavaScript-Exercise-Comprehension)
 
-[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=laoer536&repo=nodejs-koa2&show_icons=true&theme=dark)](https://github.com/laoer536/nodejs-koa2)
+[![My Blog](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laoer536&repo=nodejs-koa2&show_icons=true&theme=dark)](https://github.com/laoer536/nodejs-koa2)
 
 ## Analysis :point_down:
 
