@@ -63,7 +63,7 @@ My skills: :arrow_down:
 ## Projects :computer:
 
 
-[![Typecho Theme](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laoer536&repo=vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template&show_icons=true&theme=dark)](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template)
+[![Typecho Theme](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=laoer536&repo=vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template&show_icons=true&theme=dark)](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template)
 
 [![Config Router](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laoer536&repo=vite3.0-vue3.2-TypeScript-Pinia-sass-eslint-prettier-template&show_icons=true&theme=dark)](https://github.com/laoer536/vite3.0-vue3.2-TypeScript-Pinia-sass-eslint-prettier-template)
 
