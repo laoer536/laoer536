@@ -62,12 +62,10 @@ My skills: :arrow_down:
 
 ## Analysis :point_down:
 
+![laoer536's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laoer536&&show_icons=true&theme=dark)
+
 [![TopLangs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laoer536&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-trophy.vercel.app/?username=laoer536&theme=onedark)
-
 </div>
-
-![](https://hit.yhype.me/github/profile?user_id=)
 
 You can contact me at 'laoer536@163.com'. 🤗
