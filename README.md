@@ -13,7 +13,7 @@
 
 </p>
 
-[![Website](https://img.shields.io/badge/personal%20website-https://neo-liu.netlify.app/-b860ff?logo=html5&logoColor=white&labelColor=red)](https://neo-liu.netlify.app/)
+[![Website](https://img.shields.io/badge/personal%20website-https://laoer536.github.io/me/-b860ff?logo=html5&logoColor=white&labelColor=red)](https://laoer536.github.io/me/)
 
 </p>
 
