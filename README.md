@@ -64,8 +64,6 @@ My skills: :arrow_down:
 
 [![TopLangs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laoer536&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![laoer536's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laoer536&&show_icons=true&theme=dark)
-
 </div>
 
 You can contact me at 'coderme@qq.com'. 🤗
