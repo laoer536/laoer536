@@ -33,7 +33,7 @@ Hope to make more friends in open source projects. :eyes:
 
 I love coding. :heart:
 
-I'm a web development lover. :heart:
+I am a front-end development lover. :heart:
 
 My skills: :arrow_down:
 
