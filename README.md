@@ -66,6 +66,8 @@ My skills: :arrow_down:
 
 </div>
 
+🦄 Personal Homepage: [link](https://neo-liu.netlify.app)
+
 ✍️ Github Activities: [link](https://laoer536.github.io/me/#/)
 
 🌃 My Life: [link](https://neo-liu-life.netlify.app/)
