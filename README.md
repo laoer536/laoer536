@@ -74,7 +74,7 @@ My skills: :arrow_down:
 
 You can contact me at 'coderme@qq.com'. 🤗
 
-</div>
-
 Recently I've been looking into building gitlab repositories locally, and CI/CD related.
+
+</div>
 
