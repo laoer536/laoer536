@@ -64,8 +64,6 @@ My skills: :arrow_down:
 
 [![TopLangs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laoer536&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
 🦄 Personal Homepage: [link](https://neo-liu.netlify.app)
 
 ✍️ Github Activities: [link](https://laoer536.github.io/me/#/)
@@ -75,4 +73,8 @@ My skills: :arrow_down:
 🍡 My code-snippet: [link](https://laoer536.github.io/code-snippet/)
 
 You can contact me at 'coderme@qq.com'. 🤗
+
+</div>
+
+Recently I've been looking into building gitlab repositories locally, and CI/CD related.
 
