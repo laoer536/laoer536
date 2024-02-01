@@ -62,7 +62,7 @@ My skills: :arrow_down:
 
 ## Analysis :point_down:
 
-[![TopLangs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laoer536&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=laoer536&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 🦄 Personal Homepage: [link](https://neo-liu.netlify.app)
 
