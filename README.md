@@ -11,12 +11,6 @@
 [![Juejin](https://img.shields.io/badge/juejin-LiuJie-1e80ff?logo=bytedance)](https://juejin.cn/user/950452938095197)
 [![Github Stars](https://img.shields.io/github/stars/laoer536?color=faf408&label=github%20stars&logo=github)](https://github.com/laoer536)
 
-</p>
-
-[![Website](https://img.shields.io/badge/personal%20website-https://laoer536.github.io/me/-b860ff?logo=html5&logoColor=white&labelColor=red)](https://neo-liu.netlify.app/)
-
-</p>
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=loaer6666&color=blue)
 
 ## Introduction :raised_hands:
