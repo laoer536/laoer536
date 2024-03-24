@@ -15,8 +15,6 @@
 
 ## Introduction :raised_hands:
 
-Student of [@CDTU](https://www.cdtu.edu.cn/). :school:
-
 Major in Information Engineering. :man_technologist:
 
 I love open source spirit. :heart:
