@@ -60,7 +60,7 @@ My skills: :arrow_down:
 
 ✍️ Github Activities: [link](https://laoer536.github.io/me/#/)
 
-🌃 My Life: [link](https://neo-liu-life.netlify.app/)
+🌃 My Life: [link](https://neo-liu-life.netlify.app/)  [China link](http://82.156.154.92：81)
 
 🍡 My code-snippet: [link](https://laoer536.github.io/code-snippet/)
 
