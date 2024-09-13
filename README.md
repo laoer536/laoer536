@@ -56,11 +56,11 @@ My skills: :arrow_down:
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=laoer536&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-🦄 Personal Homepage: [link](https://neo-liu.netlify.app) [China link](http://82.156.154.92/)
+🦄 Personal Homepage: [link](https://neo-liu.netlify.app) [China link](https://www.neoliu.online/)
 
 ✍️ Github Activities: [link](https://laoer536.github.io/me/#/)
 
-🌃 My Life: [link](https://neo-liu-life.netlify.app/)  [China link](http://82.156.154.92:81/)
+🌃 My Life: [link](https://neo-liu-life.netlify.app/)  [China link](https://www.neoliu.online:81)
 
 🍡 My code-snippet: [link](https://laoer536.github.io/code-snippet/)
 
