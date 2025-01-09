@@ -66,9 +66,3 @@ My skills: :arrow_down:
 
 You can contact me at 'coderme@qq.com'. 🤗
 
-Recently I've been looking into building gitlab repositories locally, and CI/CD related.
-
-Fortunately, I recently received [Starknet's](https://www.starknet.io/) airdrop benefits and have gained more confidence in open source. Thank you!
-
-</div>
-
