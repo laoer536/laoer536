@@ -25,7 +25,7 @@ Hope to make more friends in open source projects. :eyes:
 
 I love coding. :heart:
 
-I am a front-end development lover. :heart:
+I am a front-end development lover & rust lover. :heart:
 
 My skills: :arrow_down:
 
