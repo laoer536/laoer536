@@ -43,6 +43,7 @@ My skills: :arrow_down:
 ![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
 ![React](https://img.shields.io/badge/-React-282c34?logo=react)
 ![MiniProgram](https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-07c160?logo=Rust&color=red)
 
 </p>
 
