@@ -57,7 +57,7 @@ My skills: :arrow_down:
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=laoer536&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-🦄 Personal Homepage: [link](https://neo-liu.netlify.app) [China link](https://www.neoliu.online/)
+🦄 Personal Homepage: [link](https://www.neofluxs.com)
 
 ✍️ Github Activities: [link](https://laoer536.github.io/me/#/)
 
