@@ -61,8 +61,6 @@ My skills: :arrow_down:
 
 ✍️ Github Activities: [link](https://laoer536.github.io/me/#/)
 
-🌃 My Life: [link](https://neo-liu-life.netlify.app/)  [China link](https://life.neoliu.online/)
-
 🍡 My code-snippet: [link](https://laoer536.github.io/code-snippet/)
 
 You can contact me at 'coderme@qq.com'. 🤗
