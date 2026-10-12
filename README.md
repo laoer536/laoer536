@@ -67,3 +67,5 @@ My skills: :arrow_down:
 
 You can contact me at 'coderme@qq.com'. 🤗
 
+[<img width="160" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="在爱发电赞助我">](https://afdian.com/order/create?user_id=e80a1f66c47a11f1b2fd52540025c377)
+
